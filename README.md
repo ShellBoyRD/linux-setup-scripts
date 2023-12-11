@@ -15,5 +15,6 @@ chmod +x bcm4331-manjaro.bash &&
 sudo apt install git &&
 git clone https://github.com/ShellBoyRD/linux-setup-scripts &&
 cd linux-setup-scripts &&
-chmod +x BCM4353-Debian.bash 
+chmod +x BCM4352-Debian.bash
+./BCM4352-Debian.bash
 ```

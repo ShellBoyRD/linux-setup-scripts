@@ -18,3 +18,12 @@ cd linux-setup-scripts &&
 chmod +x BCM4352-Debian.bash
 ./BCM4352-Debian.bash
 ```
+
+#### BCM4352 for arch based distros
+```
+sudo apt install git &&
+git clone https://github.com/ShellBoyRD/linux-setup-scripts &&
+cd linux-setup-scripts &&
+chmod +x BCM4352-Arch.bash
+./BCM4352-Arch.bash
+```
